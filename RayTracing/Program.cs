@@ -1,7 +1,3 @@
-using System;
-using System.Drawing;
-using System.Windows.Forms;
-
 public class RandomGridForm : Form
 {
     private const int PixelSize = 1; // Größe der Rasterzellen
